@@ -1,0 +1,59 @@
+.container
+{
+    height: 550px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5)
+}
+.faicon
+{
+    padding-top: 10px;
+    width: 98%;
+    text-align: right;
+    color: darkgray;
+}
+.hone
+{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+.sidetext
+{
+    width: 1500px;
+    text-align: end;
+    font-family: 'Roboto', sans-serif;
+    color: darkgray;
+}
+.red
+{
+    color: red;
+}
+table 
+{
+    margin: auto;
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 93%;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+.col 
+{
+    color: darkgray;
+}
+th
+{
+    height: 50px;
+    border-bottom: 1px solid rgb(201, 200, 200);
+}
+td 
+{
+    border-bottom: 1px solid rgb(201, 200, 200);
+}
+tr:nth-child(2n) 
+{
+    background: #f7fbfb;
+}
+.fa-solid 
+{
+    color: #aed134;
+}
